@@ -1,4 +1,4 @@
-package org.example;
+package org.shop;
 
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
@@ -15,3 +15,9 @@ public class Main {
         }
     }
 }
+
+//DTO and @Valid
+//link to ChatGPT
+//|
+//v
+//https://chatgpt.com/share/69640ef4-df04-8010-8678-634043d28ea3
